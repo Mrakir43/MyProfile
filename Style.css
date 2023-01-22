@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #EAE7B1;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header{
+    background-color: #A6BB8D;
+    font-size: x-large;
+    padding:7px 0px 7px 0px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    
+}
+.header-item a{
+    text-decoration: none;
+    color: #000000;
+}
+a:hover{
+    color: #7fffd4;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10px;
+    
+}
+.Education-img{
+    width: 100px;
+    border-radius:25px;
+}
+.Education{
+    margin-left: 10px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Education-h{
+    color: #0000ff;
+    margin-bottom: 0px;
+    font-size: 2rem;
+}
+.Education-cgpa{
+    background-color: #ffff00;
+    display: inline;
+}
+.study{
+    margin-bottom: 15px;
+}
+.study-class{
+    font-size: 1.5rem;
+}
+.Languages-h{
+    margin-top: 20px;
+    color:#0000ff;
+    margin-bottom: 5px;
+    font-size: 2rem;
+}
+.Languages-item{
+    font-size: 1rem;
+}
+.foot{
+    background-color:#000000;
+    margin: 0px;
+}
+/* BioData CSS start */
+.BioData{
+    margin-left:10px;
+    align-items: center;    
+}
+.BioData-item{
+    font-size: 1.2rem;
+}
+.BioData-item-lang{
+    font-size: 1.05rem;
+    margin-left: 25px;
+    display: inline;
+    background-color: #ffff00;
+}
+.project{
+    display: inline;
+    margin-left: 8px;
+    font-size: 1rem;
+}
+.footer{
+    background-color: #A6BB8D;
+    color: #ffffff;
+    display: flex;
+    padding: 50px 0px 50px 0px;
+    color: #000000;
+
+    justify-content: space-around;
+    margin-top:20px ;
+}
+.footer-item:hover{
+    color: #7fffd4;
+}
+.footer-item-img{
+    display: inline;
+    width: 20px;
+    border-radius:5px ;
+}
+.footer-item{
+    padding: 2px;
+    text-align: center;
+    list-style: none;
+    font-size: 25px;
+}
