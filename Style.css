@@ -40,6 +40,9 @@ a:hover{
 }
 .Education-l{
     margin-bottom:20px ;
+    margin-left: 10px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
 }
 .Education-h{
     color: #0000ff;
