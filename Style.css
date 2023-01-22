@@ -41,8 +41,8 @@ a:hover{
 .Education-l{
     margin-bottom:20px ;
     margin-left: 10px;
-    font-weight: 700;
-    font-family: 'Times New Roman', Times, serif;
+font-weight: 700;
+font-family: 'Times New Roman', Times, serif;
 }
 .Education-h{
     color: #0000ff;
@@ -97,8 +97,7 @@ a:hover{
     display: flex;
     padding: 50px 0px 50px 0px;
     color: #000000;
-
-    justify-content: space-around;
+    justify-content: space-between;
     margin-top:20px ;
 }
 .footer-item:hover{
@@ -111,7 +110,6 @@ a:hover{
 }
 .footer-item{
     padding: 2px;
-    text-align: center;
     list-style: none;
-    font-size: 25px;
+    font-size: 20px;
 }
